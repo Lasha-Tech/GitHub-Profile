@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Lasha-Tech](https://github.com/Lasha-Tech)
 
-- 📫 How to reach me [Lasha-Tech](https://www.linkedin.com/in/lasha-efremidze-a7964626b/)
+- 📫 How to reach me [Lasha Efremidze](https://www.linkedin.com/in/lasha-efremidze-a7964626b/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
