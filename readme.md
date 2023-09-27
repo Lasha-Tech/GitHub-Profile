@@ -21,7 +21,3 @@
 <p align="center">   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lasha-Tech" alt="Lasha Efremidze's GitHub Contribution"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lasha-Tech&" alt="Lasha-Tech" />
-</p>
